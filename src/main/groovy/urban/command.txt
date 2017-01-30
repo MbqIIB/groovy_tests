@@ -1,0 +1,1 @@
+udclient getComponent -component "PruebaRelease - App 1" -weburl http://udeploy.pre.eci.geci -username consola -password consola 

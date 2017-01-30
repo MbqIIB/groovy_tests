@@ -1,0 +1,26 @@
+[
+  {
+    "version": "${packredsys-version}",
+    "component": "",
+    "groupId": "es.eci.cc.externos.redsys",
+    "artifactId": "librerias"
+  },
+  {
+    "version": "${packredsys-version}",
+    "component": "",
+    "groupId": "es.eci.cc.externos.redsys",
+    "artifactId": "packredsys.int"
+  },
+  {
+    "version": "${packredsys-version}",
+    "component": "",
+    "groupId": "es.eci.cc.externos.redsys",
+    "artifactId": "packredsys.pro"
+  },
+  {
+    "version": "${packredsys-version}",
+    "component": "",
+    "groupId": "es.eci.cc.externos.redsys",
+    "artifactId": "TPVPC"
+  }
+]

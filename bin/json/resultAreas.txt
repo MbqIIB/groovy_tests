@@ -1,0 +1,152 @@
+Los usuarios del área "CC.CC. - Terminal Financiero PdS2 - RTC":
+FELIPE DE CASTRO LLERA -> felipe_decastro@elcorteingles.es,fmcastro@viewnext.com
+MIGUEL ANGEL DORADO APARICIO -> mada_ams@iecisa.com,madorado@viewnext.com
+TATIANA FERNANDEZ-TOSTADO CANOREA -> tftc_ams@iecisa.com,tfernandez@viewnext.com
+JULIAN MARCHANTE DE LA DUEÑA -> jmdd_ams@iecisa.com,jmarchante@viewnext.com
+
+Los usuarios del área "CC.CC. - Affluence (RTC)":
+LUIS FERNANDO CARRASCO MARIN -> luisfernando_carrasco@elcorteingles.es,lfcarrasco@viewnext.com
+JAVIER CASTELLO BAREA -> javier_castello@elcorteingles.es,jcastello@viewnext.com
+JESUS CORTIJO NEVADO -> jesus_cortijo@elcorteingles.es,jmcortijo@viewnext.com
+SERGIO FORONDA ESTEBAN -> sergio_foronda@elcorteingles.es ,sforonda@viewnext.com
+BELEN MINUESA RODRIGUEZ -> belen_minuesa@elcorteingles.es,bminuesa@viewnext.com
+ESTEBAN PEDRERO SERRANO -> esteban_pedrero@iecisa.com,epedrero@viewnext.com
+JORGE RODRIGUEZ ALCOCER -> jorge_rodriguezalcocer@elcorteingles.es,jrodrigueza@viewnext.com
+DAVID RODRIGUEZ RIVERA -> david_rodriguez@iecisa.es,drodriguezriv@viewnext.com
+CLAUDIO SUAREZ SANCHEZ -> ClaudioSuarezSanchez@gexterno.es,csuarez@viewnext.com
+
+Los usuarios del área "DVD - Gestion de Pedidos DVD (RTC)":
+DAVID RODRIGUEZ RIVERA -> david_rodriguez@iecisa.es,drodriguezriv@viewnext.com
+
+Los usuarios del área "GIS - Cluster Servicios (RTC)":
+DAVID RODRIGUEZ RIVERA -> david_rodriguez@iecisa.es,drodriguezriv@viewnext.com
+
+Los usuarios del área "GIS - Servicios e Integraciones WMB (RTC)":
+JESUS CORTIJO NEVADO -> jesus_cortijo@elcorteingles.es,jmcortijo@viewnext.com
+SERGIO FORONDA ESTEBAN -> sergio_foronda@elcorteingles.es ,sforonda@viewnext.com
+DAVID RODRIGUEZ RIVERA -> david_rodriguez@iecisa.es,drodriguezriv@viewnext.com
+ANGELES SAN FELIU GILABERT -> maria_sanfeliu@elcorteingles.es,masan@viewnext.com
+CLAUDIO SUAREZ SANCHEZ -> ClaudioSuarezSanchez@gexterno.es,csuarez@viewnext.com
+
+Los usuarios del área "Serv. Financieros - Oficina de Servicios (RTC)":
+MIGUEL ANGEL DORADO APARICIO -> mada_ams@iecisa.com,madorado@viewnext.com
+
+Los usuarios del área "ECI - Multicanal (RTC)":
+ANA ROSA HERGUETA BASELGA -> ana_hergueta@elcorteingles.es,arhergueta@viewnext.com
+JOSE LUIS POZUELO SOTO -> JoseLuisPozueloSoto@elcorteingles.es,jlpozuelo@viewnext.com
+
+Los usuarios del área "CC.CC. - SSP-Servicios de Tienda (RTC)":
+JOSE ANTONIO ALONSO ZAMORANO -> joseantonio_alonso@elcorteingles.es,jaalonso@viewnext.com
+NOELIA ANDRES GALLEGO -> noelia_andres@elcorteingles.es,nandresg@viewnext.com
+ISRAEL BARROSO CAMACHO -> israel_barroso@elcorteingles.es,ibarroso@viewnext.com
+AMELIA BUIZA ASENSIO -> amelia_buiza@iecisa.com,abuiza@viewnext.com
+OSCAR CALVO-MANZANO ALMENA -> oscar_calvomanzano@elcorteingles.es,ocalvo@viewnext.com
+LUIS FERNANDO CARRASCO MARIN -> luisfernando_carrasco@elcorteingles.es,lfcarrasco@viewnext.com
+JAVIER CASTELLO BAREA -> javier_castello@elcorteingles.es,jcastello@viewnext.com
+JESUS CORTIJO NEVADO -> jesus_cortijo@elcorteingles.es,jmcortijo@viewnext.com
+FELIPE DE CASTRO LLERA -> felipe_decastro@elcorteingles.es,fmcastro@viewnext.com
+DIEGO DE LA FUENTE CORTIJO -> ddfc_ams@iecisa.com,dfuente@viewnext.com
+JOSE E. DEL OLMO JIMENEZ -> joseemilio_delolmo@elcorteingles.es,jeolmo@viewnext.com
+JESUS ESCRIG ALARCIA -> jesus_escrigalarcia@elcorteingles.es ,jescrig@viewnext.com
+LUIS ESPINOSA CACICEDO -> luis_espinosa@elcorteingles.es,lrespinosa@viewnext.com
+TATIANA FERNANDEZ-TOSTADO CANOREA -> tftc_ams@iecisa.com,tfernandez@viewnext.com
+SERGIO FORONDA ESTEBAN -> sergio_foronda@elcorteingles.es ,sforonda@viewnext.com
+ISOLDA GARCIA ORTEGA -> isolda_garcia@elcorteingles.es,igarciao@viewnext.com
+FRANCISCO GIMENO NIEVES -> fgn_ams@iecisa.com,fgimeno@viewnext.com
+JUAN CARLOS GOMEZ MARTINEZ -> juancarlos_gomezmartinez@elcorteingles.es,jcgomezm@viewnext.com
+ANA ROSA HERGUETA BASELGA -> ana_hergueta@elcorteingles.es,arhergueta@viewnext.com
+ALEJANDRO LLORENTE PEREZ-PEDRERO -> alpp_ams@iecisa.com,allorente@viewnext.com
+BELEN MINUESA RODRIGUEZ -> belen_minuesa@elcorteingles.es,bminuesa@viewnext.com
+CARLOS OLMOS TERUEL -> carlos_olmos@iecisa.com,colmos@viewnext.com
+ANTONIO MANUEL ORTIZ PEREZ -> AntonioManuelOrtizPerez@gexterno.es,amortiz@viewnext.com
+MANUEL PATON BARRERO -> manuel_paton@elcorteingles.es,mpaton@viewnext.com
+ESTEBAN PEDRERO SERRANO -> esteban_pedrero@iecisa.com,epedrero@viewnext.com
+JOSE MIGUEL PEREZ MORAN -> josemiguel_perezmoran@elcorteingles.es,jmperezm@viewnext.com
+JOSE LUIS POZUELO SOTO -> JoseLuisPozueloSoto@elcorteingles.es,jlpozuelo@viewnext.com
+JORGE RODRIGUEZ ALCOCER -> jorge_rodriguezalcocer@elcorteingles.es,jrodrigueza@viewnext.com
+DAVID RODRIGUEZ RIVERA -> david_rodriguez@iecisa.es,drodriguezriv@viewnext.com
+FERNANDO M. ROMERO GUERRA -> fernandomiguel_romero@iecisa.com,fromerog@viewnext.com
+ANGELES SAN FELIU GILABERT -> maria_sanfeliu@elcorteingles.es,masan@viewnext.com
+CARLOS  RAMON SOTO GARCIA -> carlossotogarcia@gexterno.es,csoto@viewnext.com
+CLAUDIO SUAREZ SANCHEZ -> ClaudioSuarezSanchez@gexterno.es,csuarez@viewnext.com
+
+Los usuarios del área "CC.CC. - Conexflow (RTC)":
+NOELIA ANDRES GALLEGO -> noelia_andres@elcorteingles.es,nandresg@viewnext.com
+PALOMA ANES FERNANDEZ -> paloma_anes@iecisa.com,panes@viewnext.com
+ISRAEL BARROSO CAMACHO -> israel_barroso@elcorteingles.es,ibarroso@viewnext.com
+AMELIA BUIZA ASENSIO -> amelia_buiza@iecisa.com,abuiza@viewnext.com
+DIEGO DE LA FUENTE CORTIJO -> ddfc_ams@iecisa.com,dfuente@viewnext.com
+FRANCISCO GIMENO NIEVES -> fgn_ams@iecisa.com,fgimeno@viewnext.com
+JULIAN MARCHANTE DE LA DUEÑA -> jmdd_ams@iecisa.com,jmarchante@viewnext.com
+CARLOS OLMOS TERUEL -> carlos_olmos@iecisa.com,colmos@viewnext.com
+JOSE MIGUEL PEREZ MORAN -> josemiguel_perezmoran@elcorteingles.es,jmperezm@viewnext.com
+JOSE LUIS POZUELO SOTO -> JoseLuisPozueloSoto@elcorteingles.es,jlpozuelo@viewnext.com
+
+Los usuarios del área "CC.CC. - AllInOne.Expertus (venta de localidades) (RTC)":
+ISRAEL BARROSO CAMACHO -> israel_barroso@elcorteingles.es,ibarroso@viewnext.com
+AMELIA BUIZA ASENSIO -> amelia_buiza@iecisa.com,abuiza@viewnext.com
+FRANCISCO GIMENO NIEVES -> fgn_ams@iecisa.com,fgimeno@viewnext.com
+ALEJANDRO LLORENTE PEREZ-PEDRERO -> alpp_ams@iecisa.com,allorente@viewnext.com
+BELEN MINUESA RODRIGUEZ -> belen_minuesa@elcorteingles.es,bminuesa@viewnext.com
+CARLOS OLMOS TERUEL -> carlos_olmos@iecisa.com,colmos@viewnext.com
+ANGELES SAN FELIU GILABERT -> maria_sanfeliu@elcorteingles.es,masan@viewnext.com
+
+Los usuarios del área "CC.CC. - Carteleria Tecnica y Etiquetas centralizadas (RTC)":
+JOSE ANTONIO ALONSO ZAMORANO -> joseantonio_alonso@elcorteingles.es,jaalonso@viewnext.com
+JESUS CORTIJO NEVADO -> jesus_cortijo@elcorteingles.es,jmcortijo@viewnext.com
+SERGIO FORONDA ESTEBAN -> sergio_foronda@elcorteingles.es ,sforonda@viewnext.com
+JORGE RODRIGUEZ ALCOCER -> jorge_rodriguezalcocer@elcorteingles.es,jrodrigueza@viewnext.com
+DAVID RODRIGUEZ RIVERA -> david_rodriguez@iecisa.es,drodriguezriv@viewnext.com
+CLAUDIO SUAREZ SANCHEZ -> ClaudioSuarezSanchez@gexterno.es,csuarez@viewnext.com
+
+Los usuarios del área "CC.CC. - SCO.NCR.PdS2 (RTC)":
+ISRAEL BARROSO CAMACHO -> israel_barroso@elcorteingles.es,ibarroso@viewnext.com
+AMELIA BUIZA ASENSIO -> amelia_buiza@iecisa.com,abuiza@viewnext.com
+LUIS FERNANDO CARRASCO MARIN -> luisfernando_carrasco@elcorteingles.es,lfcarrasco@viewnext.com
+FELIPE DE CASTRO LLERA -> felipe_decastro@elcorteingles.es,fmcastro@viewnext.com
+DIEGO DE LA FUENTE CORTIJO -> ddfc_ams@iecisa.com,dfuente@viewnext.com
+ISOLDA GARCIA ORTEGA -> isolda_garcia@elcorteingles.es,igarciao@viewnext.com
+FRANCISCO GIMENO NIEVES -> fgn_ams@iecisa.com,fgimeno@viewnext.com
+ANA ROSA HERGUETA BASELGA -> ana_hergueta@elcorteingles.es,arhergueta@viewnext.com
+PABLO IGLESIAS CARDENAS -> pic_ams@iecisa.com,piglesias@viewnext.com
+ALEJANDRO LLORENTE PEREZ-PEDRERO -> alpp_ams@iecisa.com,allorente@viewnext.com
+BELEN MINUESA RODRIGUEZ -> belen_minuesa@elcorteingles.es,bminuesa@viewnext.com
+CARLOS OLMOS TERUEL -> carlos_olmos@iecisa.com,colmos@viewnext.com
+JOSE LUIS POZUELO SOTO -> JoseLuisPozueloSoto@elcorteingles.es,jlpozuelo@viewnext.com
+ANGELES SAN FELIU GILABERT -> maria_sanfeliu@elcorteingles.es,masan@viewnext.com
+
+Los usuarios del área "DVD - Reservas Multicanalidad (RTC)":
+ESTEBAN PEDRERO SERRANO -> esteban_pedrero@iecisa.com,epedrero@viewnext.com
+
+Los usuarios del área "CC.CC. - TPV PdS2 - RTC":
+JOSE ANTONIO ALONSO ZAMORANO -> joseantonio_alonso@elcorteingles.es,jaalonso@viewnext.com
+NOELIA ANDRES GALLEGO -> noelia_andres@elcorteingles.es,nandresg@viewnext.com
+PALOMA ANES FERNANDEZ -> paloma_anes@iecisa.com,panes@viewnext.com
+ISRAEL BARROSO CAMACHO -> israel_barroso@elcorteingles.es,ibarroso@viewnext.com
+AMELIA BUIZA ASENSIO -> amelia_buiza@iecisa.com,abuiza@viewnext.com
+OSCAR CALVO-MANZANO ALMENA -> oscar_calvomanzano@elcorteingles.es,ocalvo@viewnext.com
+JAVIER CASTELLO BAREA -> javier_castello@elcorteingles.es,jcastello@viewnext.com
+JESUS CORTIJO NEVADO -> jesus_cortijo@elcorteingles.es,jmcortijo@viewnext.com
+FELIPE DE CASTRO LLERA -> felipe_decastro@elcorteingles.es,fmcastro@viewnext.com
+DIEGO DE LA FUENTE CORTIJO -> ddfc_ams@iecisa.com,dfuente@viewnext.com
+MIGUEL ANGEL DORADO APARICIO -> mada_ams@iecisa.com,madorado@viewnext.com
+LUIS ESPINOSA CACICEDO -> luis_espinosa@elcorteingles.es,lrespinosa@viewnext.com
+TATIANA FERNANDEZ-TOSTADO CANOREA -> tftc_ams@iecisa.com,tfernandez@viewnext.com
+SANTIAGO FLECHA ALONSO -> sfa_ams@iecisa.com,sflecha@viewnext.com
+SERGIO FORONDA ESTEBAN -> sergio_foronda@elcorteingles.es ,sforonda@viewnext.com
+ISOLDA GARCIA ORTEGA -> isolda_garcia@elcorteingles.es,igarciao@viewnext.com
+FRANCISCO GIMENO NIEVES -> fgn_ams@iecisa.com,fgimeno@viewnext.com
+JUAN CARLOS GOMEZ MARTINEZ -> juancarlos_gomezmartinez@elcorteingles.es,jcgomezm@viewnext.com
+ANA ROSA HERGUETA BASELGA -> ana_hergueta@elcorteingles.es,arhergueta@viewnext.com
+PABLO IGLESIAS CARDENAS -> pic_ams@iecisa.com,piglesias@viewnext.com
+ALEJANDRO LLORENTE PEREZ-PEDRERO -> alpp_ams@iecisa.com,allorente@viewnext.com
+JULIAN MARCHANTE DE LA DUEÑA -> jmdd_ams@iecisa.com,jmarchante@viewnext.com
+BELEN MINUESA RODRIGUEZ -> belen_minuesa@elcorteingles.es,bminuesa@viewnext.com
+CARLOS OLMOS TERUEL -> carlos_olmos@iecisa.com,colmos@viewnext.com
+MANUEL PATON BARRERO -> manuel_paton@elcorteingles.es,mpaton@viewnext.com
+JOSE MIGUEL PEREZ MORAN -> josemiguel_perezmoran@elcorteingles.es,jmperezm@viewnext.com
+JOSE LUIS POZUELO SOTO -> JoseLuisPozueloSoto@elcorteingles.es,jlpozuelo@viewnext.com
+DAVID RODRIGUEZ RIVERA -> david_rodriguez@iecisa.es,drodriguezriv@viewnext.com
+FERNANDO M. ROMERO GUERRA -> fernandomiguel_romero@iecisa.com,fromerog@viewnext.com
+ANGELES SAN FELIU GILABERT -> maria_sanfeliu@elcorteingles.es,masan@viewnext.com
+

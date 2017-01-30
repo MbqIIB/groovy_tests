@@ -1,0 +1,399 @@
+stepUpdateArtifactsJson -> version: es.eci.cc:TPV_ECI:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpv:TPV_pom:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpv:dependencias_core:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.Pds1:Pds1_pom:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:TPVProd:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpv:TPV_proyectos:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpv:empaquetado:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpv:Entidades:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpv:interfazComunServidor:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpv:PuntoDeVenta:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpv:Shared:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.cafeterias:gestionCafeteria:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpv:AnalizadorCure:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpv:GeneradorCodigos:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.Pds1:ConexionServidorPds1:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.Pds1:empaquetado:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:base:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Aena_es_ES:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_es_ES:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_pt_PT:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_es_ES:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_pt_PT:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CargaTerminal:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Extensibilidad:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Fichajes_es_ES:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Gespevesa_es_ES:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_el_GR:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_es_MX:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_pt_PT:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_pt_PT:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Dispositivos:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Entorno:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_001:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_002:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_005:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_006:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_007:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_008:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_009:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_010:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_011:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_012:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Pds2_013:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Simulados:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:guias:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:interfazServidorCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:portugalCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:version:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:xmlSimDt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:gui:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:regLego:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:messagesTool:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:uiRegisterTool:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:gui_1024_768:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:ColorVerde:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:ColorAzul:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:ColorMorado:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:ColorNegro:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:ColorGespevesa:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:gui_1024_768_guiShared:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:gui_1024_768_guiTpv:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:gui_1024_768_guiVentaEnProceso:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:gui_1024_768_guiCafeteria:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:gui_1024_768_guiGestionGespevesa:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:legoCafeteria:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:legoCredito:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:legoGespevesa:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:legoPds:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:legoPortugal:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:legoShared:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:regRedSys:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:legoPortugalPortugal:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:legoPortugalCredito:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:messagesTpv:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:messagesCredito:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:messagesShared:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:messagesSharedGestion:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:messagesGespevesa:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:messagesAppFichajes:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:messagesGestionCafeteria:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:messagesExtensibilidadWeb:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:uiComun:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:uiGespevesa:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:uiCafeteria:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:uiAbanderados:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Aena_es_ES_aenaCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Aena_es_ES_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Aena_es_ES_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Aena_es_ES_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Aena_es_ES_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_es_ES_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_es_ES_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_es_ES_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_es_ES_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_pt_PT_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_pt_PT_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_pt_PT_guias:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_pt_PT_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Bricor_pt_PT_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_es_ES_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_es_ES_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_es_ES_guias:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_es_ES_cafeteriaCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_es_ES_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_es_ES_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_pt_PT_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_pt_PT_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_pt_PT_guias:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_pt_PT_cafeteriaCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_pt_PT_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:CafeCentral_pt_PT_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Extensibilidad_extensibilidadWeb:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Extensibilidad_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Fichajes_es_ES_fichajeCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Fichajes_es_ES_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Fichajes_es_ES_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Gespevesa_es_ES_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Gespevesa_es_ES_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Gespevesa_es_ES_guias:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Gespevesa_es_ES_gespevesaCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Gespevesa_es_ES_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Gespevesa_es_ES_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_el_GR_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_el_GR_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_el_GR_guias:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_el_GR_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_el_GR_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_es_MX_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_es_MX_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_es_MX_interfazServidorCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_es_MX_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_es_MX_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_pt_PT_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_pt_PT_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_pt_PT_guias:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_pt_PT_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Sfera_pt_PT_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES_xmlejbdtAutopago:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES_xmlejbdtAbanderados:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES_autoPagoCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES_AbanderadosCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES_SCO_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_es_ES_Abanderados_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_pt_PT_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_pt_PT_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_pt_PT_xmlejbdtAutopago:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_pt_PT_autoPagoCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_pt_PT_guias:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_pt_PT_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_pt_PT_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Supercor_pt_PT_SCO_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES_sharedCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES_xmlejbdt:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES_viajesCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES_tabletCfg:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES_pack:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES_OperadoresExternos_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES_Sfera_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES_Viajes_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.tpvprod:Tienda_es_ES_RedSys_desarrollo:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.libs:pinpad:34.0.12.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 12, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.libs.pinpad:tabimg:34.0.12.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 12, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.toolkit:pomToolkit:34.0.0.0
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 0, 0]
+Caso hotfix con versionDigits = [34, 0, 0, 0]
+newVersion = 34.0.0.0-1
+stepUpdateArtifactsJson -> version: es.eci.cc.toolkit:IntegracionContinua:34.0.0.0
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 0, 0]
+Caso hotfix con versionDigits = [34, 0, 0, 0]
+newVersion = 34.0.0.0-1
+stepUpdateArtifactsJson -> version: es.eci.cc.toolkit:GUITool:34.0.0.0
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 0, 0]
+Caso hotfix con versionDigits = [34, 0, 0, 0]
+newVersion = 34.0.0.0-1
+stepUpdateArtifactsJson -> version: es.eci.cc.toolkit:ImagesTool:34.0.0.0
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 0, 0]
+Caso hotfix con versionDigits = [34, 0, 0, 0]
+newVersion = 34.0.0.0-1
+stepUpdateArtifactsJson -> version: es.eci.cc.toolkit:LanguageTool:34.0.0.0
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 0, 0]
+Caso hotfix con versionDigits = [34, 0, 0, 0]
+newVersion = 34.0.0.0-1
+stepUpdateArtifactsJson -> version: es.eci.cc.toolkit:PhasesTool:34.0.0.0
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 0, 0]
+Caso hotfix con versionDigits = [34, 0, 0, 0]
+newVersion = 34.0.0.0-1
+stepUpdateArtifactsJson -> version: es.eci.cc.toolkit:PrintFormatsMntToolPOM:34.0.0.0
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 0, 0]
+Caso hotfix con versionDigits = [34, 0, 0, 0]
+newVersion = 34.0.0.0-1
+stepUpdateArtifactsJson -> version: es.eci.cc.toolkit:RegLegoTool:34.0.0.0
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 0, 0]
+Caso hotfix con versionDigits = [34, 0, 0, 0]
+newVersion = 34.0.0.0-1
+stepUpdateArtifactsJson -> version: es.eci.cc.toolkit:UICRegisterTool:34.0.0.0
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 0, 0]
+Caso hotfix con versionDigits = [34, 0, 0, 0]
+newVersion = 34.0.0.0-1
+stepUpdateArtifactsJson -> version: es.eci.cc.toolkit:MessagesToolXml:34.0.0.0
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 0, 0]
+Caso hotfix con versionDigits = [34, 0, 0, 0]
+newVersion = 34.0.0.0-1
+stepUpdateArtifactsJson -> version: es.eci.cc.libs:cartaCompra:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.libs:core_pom:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.libs:SyCLoader:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.libs:core:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.libs:empaquetado:34.0.13.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [34, 0, 13, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.externos.redsys:TPVPC:2.31.103.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [2, 31, 103, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.externos.redsys:librerias:2.31.103.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [2, 31, 103, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.externos.redsys:packredsys.int:2.31.103.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [2, 31, 103, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.externos.redsys:packredsys.pro:2.31.103.0-SNAPSHOT
+stepUpdateArtifactsJson -> versionDigits: [2, 31, 103, 0]
+stepUpdateArtifactsJson -> version: es.eci.cc.packed:UpdateToolkit:1.0.0
+stepUpdateArtifactsJson -> versionDigits: [1, 0, 0]
+Caso hotfix con versionDigits = [1, 0, 0]

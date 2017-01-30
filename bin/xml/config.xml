@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><project>
+  <actions/>
+  <description>Cabecera PruebaRelease - App 1 áéíóúÀÈÌÒÙ&#13;
+&#13;
+&#13;
+asdjhaslhaslhasdcdsjflsdcfdasf&#13;
+asdfasdfhsda&#13;
+hasdlñfhalñdf</description>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <jenkins.model.BuildDiscarderProperty>
+      <strategy class="hudson.tasks.LogRotator">
+        <daysToKeep>15</daysToKeep>
+        <numToKeep>-1</numToKeep>
+        <artifactDaysToKeep>-1</artifactDaysToKeep>
+        <artifactNumToKeep>-1</artifactNumToKeep>
+      </strategy>
+    </jenkins.model.BuildDiscarderProperty>
+    <hudson.model.ParametersDefinitionProperty>
+      <parameterDefinitions>
+        <hudson.model.ChoiceParameterDefinition>
+          <name>action</name>
+          <description/>
+          <choices class="java.util.Arrays$ArrayList">
+            <a class="string-array">
+              <string>build</string>
+              <string>deploy</string>
+              <string>release</string>
+            </a>
+          </choices>
+        </hudson.model.ChoiceParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>workItem</name>
+          <description/>
+          <defaultValue>2166</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>stream</name>
+          <description/>
+          <defaultValue>GIS - Proyecto Prueba Release - DESARROLLO</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>streamTarget</name>
+          <description/>
+          <defaultValue>GIS - Proyecto Prueba Release - RELEASE</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>component</name>
+          <description/>
+          <defaultValue>PruebaRelease - App 1</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>componenteUrbanCode</name>
+          <description/>
+          <defaultValue>PruebaRelease - App 1</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>executionUuid</name>
+          <description/>
+          <defaultValue/>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>earName</name>
+          <description/>
+          <defaultValue>app1</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.BooleanParameterDefinition>
+          <name>documentacion</name>
+          <description/>
+          <defaultValue>true</defaultValue>
+        </hudson.model.BooleanParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>aplicacionUrbanCode</name>
+          <description/>
+          <defaultValue>88888 - Prueba GATES</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>instantanea</name>
+          <description/>
+          <defaultValue/>
+        </hudson.model.StringParameterDefinition>
+      <hudson.model.StringParameterDefinition>
+<name>AAAAAAAAAAAAAAAAA</name>
+<description/>
+<defaultValue>BBBBBBBBBBBBBBB</defaultValue>
+</hudson.model.StringParameterDefinition></parameterDefinitions>
+    </hudson.model.ParametersDefinitionProperty>
+    <com.sonyericsson.rebuild.RebuildSettings plugin="rebuild@1.25">
+      <autoRebuild>false</autoRebuild>
+      <rebuildDisabled>false</rebuildDisabled>
+    </com.sonyericsson.rebuild.RebuildSettings>
+    <de.pellepelster.jenkins.walldisplay.WallDisplayJobProperty plugin="jenkinswalldisplay@0.6.27">
+      <wallDisplayName>"null"</wallDisplayName>
+    </de.pellepelster.jenkins.walldisplay.WallDisplayJobProperty>
+  <hudson.model.StringParameterDefinition>
+<name>AAAAAAAAAAAAAAAAA</name>
+<description/>
+<defaultValue>BBBBBBBBBBBBBBB</defaultValue>
+</hudson.model.StringParameterDefinition></properties>
+  <scm class="hudson.scm.NullSCM"/>
+  <assignedNode>frontal</assignedNode>
+  <canRoam>false</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <jdk>(System)</jdk>
+  <triggers/>
+  <concurrentBuild>false</concurrentBuild>
+  <customWorkspace>${JENKINS_HOME}/workspace/GIS_Proyecto_Prueba_Release_DESARROLLO_PruebaRelease_App_1_${action}</customWorkspace>
+  <builders>
+    <org.jenkinsci.plugins.conditionalbuildstep.singlestep.SingleConditionalBuilder plugin="conditional-buildstep@1.3.3">
+      <condition class="org.jenkins_ci.plugins.run_condition.contributed.ShellCondition" plugin="run-condition@1.0">
+        <command>if [ "${action}" != "build" ];then
+exit 1
+fi</command>
+      </condition>
+      <buildStep class="hudson.plugins.parameterizedtrigger.TriggerBuilder" plugin="parameterized-trigger@2.25">
+        <configs>
+          <hudson.plugins.parameterizedtrigger.BlockableBuildTriggerConfig>
+            <configs>
+              <hudson.plugins.parameterizedtrigger.CurrentBuildParameters/>
+              <hudson.plugins.parameterizedtrigger.PredefinedBuildParameters>
+                <properties>parentWorkspace=${WORKSPACE}
+jobInvoker=${JOB_NAME}
+buildFilePath=pom.xml
+workspaceRTC=WSR - ${stream} - BUILD - IC
+JdkSuffix=
+listaSkips=stepGenerateReleaseNotes
+light=true</properties>
+              </hudson.plugins.parameterizedtrigger.PredefinedBuildParameters>
+            </configs>
+            <projects>workFlowBuildMavenLight</projects>
+            <condition>ALWAYS</condition>
+            <triggerWithNoParameters>false</triggerWithNoParameters>
+            <block>
+              <buildStepFailureThreshold>
+                <name>FAILURE</name>
+                <ordinal>2</ordinal>
+                <color>RED</color>
+                <completeBuild>true</completeBuild>
+              </buildStepFailureThreshold>
+              <unstableThreshold>
+                <name>UNSTABLE</name>
+                <ordinal>1</ordinal>
+                <color>YELLOW</color>
+                <completeBuild>true</completeBuild>
+              </unstableThreshold>
+              <failureThreshold>
+                <name>FAILURE</name>
+                <ordinal>2</ordinal>
+                <color>RED</color>
+                <completeBuild>true</completeBuild>
+              </failureThreshold>
+            </block>
+            <buildAllNodesWithLabel>false</buildAllNodesWithLabel>
+          </hudson.plugins.parameterizedtrigger.BlockableBuildTriggerConfig>
+        </configs>
+      </buildStep>
+      <runner class="org.jenkins_ci.plugins.run_condition.BuildStepRunner$Fail" plugin="run-condition@1.0"/>
+    </org.jenkinsci.plugins.conditionalbuildstep.singlestep.SingleConditionalBuilder>
+    <org.jenkinsci.plugins.conditionalbuildstep.singlestep.SingleConditionalBuilder plugin="conditional-buildstep@1.3.3">
+      <condition class="org.jenkins_ci.plugins.run_condition.contributed.ShellCondition" plugin="run-condition@1.0">
+        <command>if [ "${action}" != "deploy" ];then
+exit 1
+fi</command>
+      </condition>
+      <buildStep class="hudson.plugins.parameterizedtrigger.TriggerBuilder" plugin="parameterized-trigger@2.25">
+        <configs>
+          <hudson.plugins.parameterizedtrigger.BlockableBuildTriggerConfig>
+            <configs>
+              <hudson.plugins.parameterizedtrigger.CurrentBuildParameters/>
+              <hudson.plugins.parameterizedtrigger.PredefinedBuildParameters>
+                <properties>buildFilePath=pom.xml
+parentWorkspace=${WORKSPACE}
+compJobNumber=${BUILD_NUMBER}
+jobInvoker=${JOB_NAME}
+workspaceRTC=WSR - ${stream} - DEPLOY - IC
+JdkSuffix=
+listaSkips=
+deploy_env=DESA
+WAS=8.5
+block=true
+light=true</properties>
+              </hudson.plugins.parameterizedtrigger.PredefinedBuildParameters>
+            </configs>
+            <projects>workFlowDeployMavenLight</projects>
+            <condition>ALWAYS</condition>
+            <triggerWithNoParameters>false</triggerWithNoParameters>
+            <block>
+              <buildStepFailureThreshold>
+                <name>FAILURE</name>
+                <ordinal>2</ordinal>
+                <color>RED</color>
+                <completeBuild>true</completeBuild>
+              </buildStepFailureThreshold>
+              <unstableThreshold>
+                <name>UNSTABLE</name>
+                <ordinal>1</ordinal>
+                <color>YELLOW</color>
+                <completeBuild>true</completeBuild>
+              </unstableThreshold>
+              <failureThreshold>
+                <name>FAILURE</name>
+                <ordinal>2</ordinal>
+                <color>RED</color>
+                <completeBuild>true</completeBuild>
+              </failureThreshold>
+            </block>
+            <buildAllNodesWithLabel>false</buildAllNodesWithLabel>
+          </hudson.plugins.parameterizedtrigger.BlockableBuildTriggerConfig>
+        </configs>
+      </buildStep>
+      <runner class="org.jenkins_ci.plugins.run_condition.BuildStepRunner$Fail" plugin="run-condition@1.0"/>
+    </org.jenkinsci.plugins.conditionalbuildstep.singlestep.SingleConditionalBuilder>
+    <org.jenkinsci.plugins.conditionalbuildstep.singlestep.SingleConditionalBuilder plugin="conditional-buildstep@1.3.3">
+      <condition class="org.jenkins_ci.plugins.run_condition.contributed.ShellCondition" plugin="run-condition@1.0">
+        <command>if [ "${action}" != "release" ];then
+exit 1
+fi</command>
+      </condition>
+      <buildStep class="hudson.plugins.parameterizedtrigger.TriggerBuilder" plugin="parameterized-trigger@2.25">
+        <configs>
+          <hudson.plugins.parameterizedtrigger.BlockableBuildTriggerConfig>
+            <configs>
+              <hudson.plugins.parameterizedtrigger.CurrentBuildParameters/>
+              <hudson.plugins.parameterizedtrigger.PredefinedBuildParameters>
+                <properties>workspaceChecking=WSR - ${stream} - DEPLOY - IC
+buildFilePath=pom.xml
+parentWorkspace=${WORKSPACE}
+compJobNumber=${BUILD_NUMBER}
+jobInvoker=${JOB_NAME}
+workspaceRTC=WSR - ${stream} - RELEASE - IC
+JdkSuffix=
+listaSkips=stepDeployWASMaven
+deploy_env=PRE
+WAS=8.5
+block=true
+light=true</properties>
+              </hudson.plugins.parameterizedtrigger.PredefinedBuildParameters>
+            </configs>
+            <projects>workFlowReleaseMavenLight</projects>
+            <condition>ALWAYS</condition>
+            <triggerWithNoParameters>false</triggerWithNoParameters>
+            <block>
+              <buildStepFailureThreshold>
+                <name>FAILURE</name>
+                <ordinal>2</ordinal>
+                <color>RED</color>
+                <completeBuild>true</completeBuild>
+              </buildStepFailureThreshold>
+              <unstableThreshold>
+                <name>UNSTABLE</name>
+                <ordinal>1</ordinal>
+                <color>YELLOW</color>
+                <completeBuild>true</completeBuild>
+              </unstableThreshold>
+              <failureThreshold>
+                <name>FAILURE</name>
+                <ordinal>2</ordinal>
+                <color>RED</color>
+                <completeBuild>true</completeBuild>
+              </failureThreshold>
+            </block>
+            <buildAllNodesWithLabel>false</buildAllNodesWithLabel>
+          </hudson.plugins.parameterizedtrigger.BlockableBuildTriggerConfig>
+        </configs>
+      </buildStep>
+      <runner class="org.jenkins_ci.plugins.run_condition.BuildStepRunner$Fail" plugin="run-condition@1.0"/>
+    </org.jenkinsci.plugins.conditionalbuildstep.singlestep.SingleConditionalBuilder>
+    <org.jenkinsci.plugins.conditionalbuildstep.singlestep.SingleConditionalBuilder plugin="conditional-buildstep@1.3.3">
+      <condition class="org.jenkins_ci.plugins.run_condition.contributed.ShellCondition" plugin="run-condition@1.0">
+        <command>if [ "${action}" != "addFix" ] &amp;&amp; [ "${action}" != "addHotfix" ];then
+	exit 1
+fi</command>
+      </condition>
+      <buildStep class="hudson.plugins.parameterizedtrigger.TriggerBuilder" plugin="parameterized-trigger@2.25">
+        <configs>
+          <hudson.plugins.parameterizedtrigger.BlockableBuildTriggerConfig>
+            <configs>
+              <hudson.plugins.parameterizedtrigger.CurrentBuildParameters/>
+              <hudson.plugins.parameterizedtrigger.PredefinedBuildParameters>
+                <properties>stream=${streamTarget}
+workspaceChecking=WSR - ${stream} - DEPLOY - IC
+buildFilePath=pom.xml
+parentWorkspace=${WORKSPACE}
+compJobNumber=${BUILD_NUMBER}
+jobInvoker=${JOB_NAME}
+workspaceRTC=WSR - ${stream} - FIX - IC
+JdkSuffix=
+listaSkips=stepDeployWASMaven
+deploy_env=PRE
+WAS=8.5
+light=true</properties>
+              </hudson.plugins.parameterizedtrigger.PredefinedBuildParameters>
+            </configs>
+            <projects>workFlowFixMavenLight</projects>
+            <condition>ALWAYS</condition>
+            <triggerWithNoParameters>false</triggerWithNoParameters>
+            <block>
+              <buildStepFailureThreshold>
+                <name>FAILURE</name>
+                <ordinal>2</ordinal>
+                <color>RED</color>
+                <completeBuild>true</completeBuild>
+              </buildStepFailureThreshold>
+              <unstableThreshold>
+                <name>UNSTABLE</name>
+                <ordinal>1</ordinal>
+                <color>YELLOW</color>
+                <completeBuild>true</completeBuild>
+              </unstableThreshold>
+              <failureThreshold>
+                <name>FAILURE</name>
+                <ordinal>2</ordinal>
+                <color>RED</color>
+                <completeBuild>true</completeBuild>
+              </failureThreshold>
+            </block>
+            <buildAllNodesWithLabel>false</buildAllNodesWithLabel>
+          </hudson.plugins.parameterizedtrigger.BlockableBuildTriggerConfig>
+        </configs>
+      </buildStep>
+      <runner class="org.jenkins_ci.plugins.run_condition.BuildStepRunner$Fail" plugin="run-condition@1.0"/>
+    </org.jenkinsci.plugins.conditionalbuildstep.singlestep.SingleConditionalBuilder>
+    <hudson.plugins.groovy.SystemGroovy plugin="groovy@1.29">
+      <scriptSource class="hudson.plugins.groovy.StringScriptSource">
+        <command>import hudson.model.*
+//import jenkins.model.*
+
+out.println '--- Ejecutando groovy de sistema ---'
+
+def childJobsFinder = new ChildJobsFinder()
+
+//def instance = Jenkins.getInstance()
+def instance = Hudson.getInstance()
+
+def ocurrencias = []
+def temporal = []
+
+out.println "root project name: ${build.getProject().name}"
+
+def firstMatch = childJobsFinder.findChildsJob(build.getLog(), build.getProject().name, ocurrencias)
+
+if (firstMatch) {
+  def indexOcurrencias = 0
+  def ocurrenciasCount = 1
+  
+  out.println 'Antes de bucle'
+  
+  while (indexOcurrencias &lt; ocurrenciasCount) {
+    out.println "iteracion $indexOcurrencias"
+	def item = ocurrencias[indexOcurrencias]
+    if (item == null) break
+    indexOcurrencias++
+    String nombre = item[1]
+    if (!nombre.startsWith('step')) continue
+    def number = item[2]
+    out.println "|$nombre|"
+    out.println number
+    def proyecto = AbstractProject.findNearest(nombre)
+    //def proyecto = Hudson.instance.getJob(nombre)
+    if (proyecto == null) {
+      out.println 'proyecto es nulo'
+      continue
+    }
+    out.println "proyecto: ${proyecto.getName()}"
+    out.println Integer.valueOf(item[2].substring(1))
+    def buildNumber = proyecto.getBuildByNumber(Integer.valueOf(item[2].substring(1)))
+    if (buildNumber == null) {
+      out.println Integer.valueOf(item[2].substring(1))
+      out.println 'build nulo recuperado'
+      continue
+    }
+    out.println "'"+nombre+"'"
+    def log = AbstractProject.findNearest(nombre).getBuildByNumber(Integer.valueOf(item[2].substring(1))).getLog()
+    //def log = instance.getJob(nombre).getBuildByNumber(Integer.valueOf(item[2].substring(1))).getLog()
+    childJobsFinder.findChildsJob(log, nombre, ocurrencias)
+    ocurrenciasCount = ocurrencias.size()
+    out.println "indexOcurrencias $indexOcurrencias, ocurrenciasCount $ocurrenciasCount"
+    if (indexOcurrencias == 20) indexOcurrencias = ocurrenciasCount + 1
+  }
+}
+
+ocurrencias.each { it -&gt;
+  println it
+  println '------------------------------------'
+}
+
+class ChildJobsFinder {
+  
+  final String regexp = /(.*)\s(#\d+)\scompleted\.\sResult\swas\s(.*)/
+  
+  Boolean findChildsJob(String log, String jobName, List ocurrencias) {
+    Boolean result = false
+    def matcher = (log =~ regexp)
+  
+    matcher.each { match -&gt;
+    
+      if (match != null) {
+        def ocurrencia = [jobName, match[1], match[2], match[3]]
+        ocurrencias.add(ocurrencia)
+        
+        if (!result) result = true
+      }
+    }
+    
+    return result
+  }
+}</command>
+      </scriptSource>
+      <bindings/>
+      <classpath/>
+    </hudson.plugins.groovy.SystemGroovy>
+  </builders>
+  <publishers>
+    <hudson.plugins.templateproject.ProxyPublisher plugin="template-project@1.4.2">
+      <projectName>PublisherMaven</projectName>
+    </hudson.plugins.templateproject.ProxyPublisher>
+    <hudson.plugins.parameterizedtrigger.BuildTrigger plugin="parameterized-trigger@2.25">
+      <configs>
+        <hudson.plugins.parameterizedtrigger.BuildTriggerConfig>
+          <configs>
+            <hudson.plugins.parameterizedtrigger.CurrentBuildParameters/>
+            <hudson.plugins.parameterizedtrigger.PredefinedBuildParameters>
+              <properties>parentWorkspace=$WORKSPACE
+buildDefinition=$stream - $action
+jobInvokerType=components
+managersMail=rubengonzalezcobos@gexterno.es
+buildLabel=$JOB_NAME - $action
+MAIL_SUBJECT=$JOB_NAME - $action
+paramsToClean=artifactsFile</properties>
+            </hudson.plugins.parameterizedtrigger.PredefinedBuildParameters>
+          </configs>
+          <projects>stepNotifierMail,stepNotifierStream,stepNotifierRTC,stepNotifierPortal</projects>
+          <condition>ALWAYS</condition>
+          <triggerWithNoParameters>false</triggerWithNoParameters>
+        </hudson.plugins.parameterizedtrigger.BuildTriggerConfig>
+      </configs>
+    </hudson.plugins.parameterizedtrigger.BuildTrigger>
+  </publishers>
+  <buildWrappers>
+    <com.michelin.cio.hudson.plugins.maskpasswords.MaskPasswordsBuildWrapper/>
+  </buildWrappers>
+</project>

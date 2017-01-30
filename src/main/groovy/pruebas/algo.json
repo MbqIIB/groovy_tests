@@ -1,0 +1,13 @@
+{
+  "name": "test_144515032016_completa",
+  "application": "88888 - Prueba GATES",
+  "description": "Snapshot Urban Code",
+  "versions": [
+    {
+      "PruebaRelease - App 1": "5.0.8.0"
+    },
+    {
+      "PruebaRelease - App 2": "5.0.8.0sss"
+    }
+  ]
+}
